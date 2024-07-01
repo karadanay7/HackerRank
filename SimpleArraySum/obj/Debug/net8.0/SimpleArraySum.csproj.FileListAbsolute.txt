@@ -12,3 +12,4 @@
 /Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.pdb
 /Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.genruntimeconfig.cache
 /Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/ref/SimpleArraySum.dll
+/Users/aysegulkaradan/Projects/HackerRank/SimpleArraySum/obj/Debug/net8.0/SimpleArraySum.sourcelink.json
